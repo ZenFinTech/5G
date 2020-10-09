@@ -6,19 +6,13 @@
 ```
 网络价值 V ＝ k * $N^{2}$  
 
-\begin{equation}
-E=mc^2 \text{，自动编号公式示例}
-\label{eq:Sample}
-\end{equation}
+$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
 
 
 ```
 V ＝ k * N^{2}$
 
-\begin{equation}
-E=mc^2 \text{，自动编号公式示例}
-\label{eq:Sample}
-\end{equation}
+$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
 
 
 ## Gilder's law
