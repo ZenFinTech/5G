@@ -6,6 +6,7 @@
 ```
 网络价值 V ＝ k * $N^2$
 ```
+V ＝ k * $N^2$
 ## Gilder's law
 ## Andy and Bill's law
 ## anti-Moore's law
