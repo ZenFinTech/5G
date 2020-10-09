@@ -4,7 +4,7 @@
 ```
 ## Metcalf's law
 ```
-网络价值 V ＝ k * $N^2$
+网络价值 V ＝ k * $N^{2}$
 ```
 V ＝ k * $N^2$
 ## Gilder's law
